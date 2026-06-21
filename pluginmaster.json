@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "VelvetFFXIV",
+    "Name": "XIVIgnore",
+    "InternalName": "XIVIgnore",
+    "AssemblyVersion": "0.0.0.87",
+    "Description": "Client-side virtual extension of the FFXIV ignore list: additionally mute and hide players, with categories, notes and auto-expiry. UI available in English and German.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/VelvetFFXIV/XIVIgnore",
+    "Tags": [
+      "chat",
+      "ignore",
+      "blacklist",
+      "quality-of-life"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Virtually extends the in-game ignore list (client-side).",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/VelvetFFXIV/XIVIgnore/releases/download/v0.0.0.87/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/VelvetFFXIV/XIVIgnore/releases/download/v0.0.0.87/latest.zip",
+    "DownloadLinkTesting": "https://github.com/VelvetFFXIV/XIVIgnore/releases/download/v0.0.0.87/latest.zip"
+  }
+]
